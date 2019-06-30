@@ -1,5 +1,5 @@
 # tree_survivor
-
+<pre>
 This program uses data of trees of different marks of melbourne to calculate their respective survivability over the years. It also produces relevant stats and maps the initial and final states of the park (represented as a 100 x 100 grid).
 
 Run in terminal: ./tree_survivor.exe "rainfall amount" < "data file"
@@ -18,3 +18,4 @@ Output: 1. Total lines of the data file and total water needed annually
 
 Author  - Gazi Mufti Mahmood
 Date    - 21/05/2018
+</pre>
