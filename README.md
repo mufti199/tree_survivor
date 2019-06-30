@@ -10,7 +10,7 @@ Input : TSV file containing tree data.
         3. yloc     - Y coordinate of the park
         4. liters   - Water required by the tree to survive
         5. rootrad  - Radius of the tree's roots
-        
+        *what is this
 Output: 1. Total lines of the data file and total water needed annually
         2. Trees which compete for water due to overlapping roots
         3. Initial map of park
